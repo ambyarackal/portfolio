@@ -65,7 +65,7 @@ export default function Overlay() {
               <a href="https://www.behance.net/abilashabraham" target="_blank" className="hover:text-indigo-800 transition-colors text-xl"><i className="fa-brands fa-behance"></i></a>
             </div>
           </div>
-          <a href="https://drive.google.com/file/d/1UxerP1UcI1mEZ-5bzo1mMi_RoeaqTuAs/view?usp=sharing" target="_blank" className="px-8 py-3.5 border border-white/20 text-white rounded-full font-medium hover:bg-white/5 transition-all flex items-center gap-2 self-start">
+          <a href="https://drive.google.com/file/d/1Gq4fvsEe1R3CMu0jFpNqlie1GcImT4V-/view?usp=drive_link" target="_blank" className="px-8 py-3.5 border border-white/20 text-white rounded-full font-medium hover:bg-white/5 transition-all flex items-center gap-2 self-start">
             <i className="fa-solid fa-download"></i> Download CV
           </a>
         </div>
